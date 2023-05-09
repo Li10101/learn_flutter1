@@ -5,6 +5,7 @@ main(){
   runApp(
     MaterialApp(
       home: Scaffold(
+
         appBar: AppBar(
           title: Text("第一个Flutter程序"),
           centerTitle: true,
